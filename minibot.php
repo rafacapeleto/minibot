@@ -1,6 +1,6 @@
-<?php
-require 'api.php';
-        
+<?API_KEY: 2863188b7e2fbf7a7862b2a90cc436e5e5a8cdefc52185da305ed7
+	API_SECRET: 286318463909adfb8e8bc9c52d2c34cc65c4d6792226f2104ceb8fdc9d1eaf0dac66f7
+require api.php        
 use API\Client\API as API;
 
 //IMPORTANTE!!! Criar uma conta nova na exchange, pois ela ira usar o seu saldo todo para isso!
